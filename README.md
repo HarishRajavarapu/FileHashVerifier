@@ -107,14 +107,12 @@ The Move smart contract (`file_hash_verifier.move`) provides:
 
 ## Screenshots
 
-<img width="1876" height="1082" alt="image" src="https://github.com/user-attachments/assets/7a263e5b-7d92-4647-8e36-b219b7151297" />
-
-<img width="1918" height="1074" alt="image" src="https://github.com/user-attachments/assets/d293b43d-7639-46b8-839a-874cd76ff3d1" />
-
+![alt text](<Screenshot 2025-08-05 154542-1.png>)
+![alt text](<Screenshot 2025-08-05 154639.png>)
 
 ## Contract Details
 
-0xc7ded0f141bca7c8eaa51cfe6ec81a4f958f73babf44875cd1fffae66ffb7130
+0x1b9f6c6be32302f53ad0b8fa2c511929dbe1b9736f1ee97cf350382de99b8813
 
 ## How It Works
 
