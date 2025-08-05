@@ -114,7 +114,7 @@ The Move smart contract (`file_hash_verifier.move`) provides:
 
 ## Contract Details
 
-0x1b9f6c6be32302f53ad0b8fa2c511929dbe1b9736f1ee97cf350382de99b8813
+0xc7ded0f141bca7c8eaa51cfe6ec81a4f958f73babf44875cd1fffae66ffb7130
 
 ## How It Works
 
