@@ -54,7 +54,7 @@ The Move smart contract (`file_hash_verifier.move`) provides:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/HarishRajavarapu/FileHashVerifier
 cd filehashverifier
 ```
 
