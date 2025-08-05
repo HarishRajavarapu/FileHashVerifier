@@ -32,6 +32,10 @@ The Move smart contract (`file_hash_verifier.move`) provides:
 - **Blockchain**: Aptos Move smart contracts
 - **Wallet Integration**: Aptos Wallet Adapter
 - **Development Tools**: Aptos TS SDK, Node.js
+## Screenshots
+<img width="1919" height="1085" alt="Screenshot 2025-08-05 154542" src="https://github.com/user-attachments/assets/07ee0819-51f2-4d98-bcd9-1d2e5fdb38c7" />
+
+<img width="1914" height="1073" alt="Screenshot 2025-08-05 154639" src="https://github.com/user-attachments/assets/cacc1105-a5a2-4bd1-86ff-49eeb1b46f23" />
 
 ## Getting Started
 
