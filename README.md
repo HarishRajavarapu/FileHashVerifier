@@ -106,9 +106,10 @@ The Move smart contract (`file_hash_verifier.move`) provides:
 - **Development Tools**: Aptos TS SDK, Node.js
 
 ## Screenshots
+<img width="1876" height="1082" alt="Screenshot 2025-08-05 212655" src="https://github.com/user-attachments/assets/701362d8-8987-407e-b9b7-530bdbf2375b" />
 
-![alt text](<Screenshot 2025-08-05 154542-1.png>)
-![alt text](<Screenshot 2025-08-05 154639.png>)
+<img width="1914" height="1073" alt="Screenshot 2025-08-05 154639" src="https://github.com/user-attachments/assets/d8585ba1-c18f-4f43-8982-a22e23385afc" />
+
 
 ## Contract Details
 
